@@ -1,5 +1,5 @@
 
-# Portifólio
+# Portifolio
 Este é meu portfólio online desenvolvido para apresentar meus projetos, habilidades e experiências como graduando em Engenharia de Software no UniCeub - Centro Universitário de Brasília.
 
 ## Objetivo
